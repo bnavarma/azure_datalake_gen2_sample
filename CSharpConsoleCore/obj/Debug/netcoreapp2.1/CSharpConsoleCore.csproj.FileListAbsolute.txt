@@ -1,0 +1,11 @@
+C:\Users\avvarma\source\repos\CSharpConsoleCore\CSharpConsoleCore\bin\Debug\netcoreapp2.1\CSharpConsoleCore.deps.json
+C:\Users\avvarma\source\repos\CSharpConsoleCore\CSharpConsoleCore\bin\Debug\netcoreapp2.1\CSharpConsoleCore.runtimeconfig.json
+C:\Users\avvarma\source\repos\CSharpConsoleCore\CSharpConsoleCore\bin\Debug\netcoreapp2.1\CSharpConsoleCore.runtimeconfig.dev.json
+C:\Users\avvarma\source\repos\CSharpConsoleCore\CSharpConsoleCore\bin\Debug\netcoreapp2.1\CSharpConsoleCore.dll
+C:\Users\avvarma\source\repos\CSharpConsoleCore\CSharpConsoleCore\obj\Debug\netcoreapp2.1\CSharpConsoleCore.csprojAssemblyReference.cache
+C:\Users\avvarma\source\repos\CSharpConsoleCore\CSharpConsoleCore\obj\Debug\netcoreapp2.1\CSharpConsoleCore.csproj.CoreCompileInputs.cache
+C:\Users\avvarma\source\repos\CSharpConsoleCore\CSharpConsoleCore\obj\Debug\netcoreapp2.1\CSharpConsoleCore.AssemblyInfoInputs.cache
+C:\Users\avvarma\source\repos\CSharpConsoleCore\CSharpConsoleCore\obj\Debug\netcoreapp2.1\CSharpConsoleCore.AssemblyInfo.cs
+C:\Users\avvarma\source\repos\CSharpConsoleCore\CSharpConsoleCore\bin\Debug\netcoreapp2.1\CSharpConsoleCore.pdb
+C:\Users\avvarma\source\repos\CSharpConsoleCore\CSharpConsoleCore\obj\Debug\netcoreapp2.1\CSharpConsoleCore.dll
+C:\Users\avvarma\source\repos\CSharpConsoleCore\CSharpConsoleCore\obj\Debug\netcoreapp2.1\CSharpConsoleCore.pdb
